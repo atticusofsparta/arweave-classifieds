@@ -1,4 +1,4 @@
-##Arweave Classifieds
+## Arweave Classifieds
 
 Arweave Classifieds is a permaweb dapp for uploading, searching for, and contacting post authors about their classifieds posting. 
   Think craigslist on arweave.
