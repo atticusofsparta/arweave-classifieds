@@ -1,4 +1,4 @@
-## Arweave Classifieds
+# Arweave Classifieds
 
 Arweave Classifieds is a permaweb dapp for uploading, searching for, and contacting post authors about their classifieds posting. 
   Think craigslist on arweave.
@@ -18,8 +18,10 @@ Post moderation will be somewhat community controlled. If a user thinks a post i
   will calculate the highest voted category for the listing, and place it there. If no category has a highest approval rating, the original set by the 
   author is used.
   
-Smart listings: a smart listing is a smartcontract deployed to act as payment mediation between buyer, seller, and brokers. Users can apply to be a broker
-  for a listing. A brokers job is to find a buyer or a seller to fullfill the contract's function, which is to transfer ownership of the product or service.
+## Smart listings 
+
+  A smart listing is a smartcontract deployed to act as payment mediation between buyer, seller, and brokers. Users can apply to be a broker
+  for a listing. A brokers job is to find a buyer or a seller to fullfill the contract's function, which is to transfer ownership of the product or     service.
   The author of the listing can set weather or not the listing needs a broker, and if so set the brokers commision. Once an author accepts someone as a
   broker, or multiple brokers, the contract is updated for each broker(s) deal. If the broker finds a party who is interested, they must update the contract
   with that persons wallet address. If that wallet address is used to pay out the contract, the broker will automatically recieve comission from the
