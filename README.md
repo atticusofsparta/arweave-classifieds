@@ -6,6 +6,8 @@ Arweave Classifieds is a permaweb dapp for uploading, searching for, and contact
 Users can post about anything they like and view listings in community managed categories. Categories can be added at any time by any user so long
   as the category is not blacklisted in the DAO's contract. Categories can be removed from the blacklist as well.
 
+## Content Moderation
+
 Content moderation is voted on with a DAO structure for adding and removing listings/categories, and members of the DAO can earn PST tokens for performing 
   actions in this regard. Owners of a post can change the post to active/inactive with a new transaction for the posts manifest. Other classifieds apps
   will be able to link into this tagging structure to display classifieds posting on their app as well.
@@ -40,9 +42,9 @@ An important part of any classifieds ad is keeping it relevant to the location o
 ## Local Crypto Trading
 
   An important part of what will make or break this platform is the Smart listings - which require crypto to operate. As such the ability for users
-  to interact 
+  to interact with eachother for purchasing crypto with hard cash will likely be a basis for many transactions. A specific type of smart listing can be used for this as well, where the broker is always the dao. The seller of the crypto deposits to the smart contract, and the buyer then provides proof of payment, like an uploaded video of the transaction, signed reciept from the seller, or other proofs. Once the dao reviews the transaction they can trigger the release of funds on the contract and complete to service. This is another way in which PST's can be earned, with a service fee for acting as mediators going to the PST treasury.
   
-##PST Tokenomics
+## PST Tokenomics
 
   At this point you are probably wondering.... why do people want these PST's? The answer, is they have value. The value for these PST's comes from the
   treasury, and the treasury is funded by other dapps paying for access to the curated data. This dapp keeps track of payments via the smart listings,
